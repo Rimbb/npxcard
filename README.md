@@ -3,6 +3,6 @@
 npm command :
 **$ npx rimb**
 
-Have fun !
+Enjoy !
 
 [Rimbaud](https://github.com/rimbb)
