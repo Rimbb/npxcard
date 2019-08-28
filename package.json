@@ -1,0 +1,31 @@
+{
+  "name": "rimbnpxcard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "Holidates": "./index.js"
+  },
+  "files": [
+    "*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rimbb/npxcard.git"
+  },
+  "author": "Rimbaud Gregoire",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rimbb/npxcard/issues"
+  },
+  "homepage": "https://github.com/Rimbb/npxcard#readme",
+  "dependencies": {
+    "boxen": "^4.1.0",
+    "chalk": "^2.4.2",
+    "play-sound": "^1.1.3",
+    "prompts": "^2.2.1"
+  }
+}
