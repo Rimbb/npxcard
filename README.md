@@ -1,7 +1,7 @@
 ## My npx card
 
 npm command :
-**$ npx rimb**
+**$ npx rimbb**
 
 Enjoy !
 
